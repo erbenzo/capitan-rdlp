@@ -1,6 +1,6 @@
 # ⛵ Capitán RDLP
 
-Dashboard náutico para el Río de la Plata.
+Dashboard náutico para el Río de la Plata y Canal costanero.
 
 ## 📲 Instalar
 
