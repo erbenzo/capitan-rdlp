@@ -8,6 +8,6 @@ Abrí en **Chrome Android**: https://erbenzo.github.io/capitan-rdlp/
 
 Chrome muestra el banner **"Instalar Capitán RDLP"** automáticamente.
 
-Versión V1-8-4 · Cachafaz (Keth One-off/ Albin) · Eduardo Benzo
-29/5/2026
+Versión V1-8-5 · Cachafaz (Keth One-off/ Albin) · Eduardo Benzo
+28/6/2026
 erbenzo@ifts24.edu.ar
