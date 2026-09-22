@@ -13,3 +13,4 @@ Versión V1-8-6 · Cachafaz (Keth One-off/ Albin) · Eduardo Benzo
 erbenzo@ifts24.edu.ar
 
 Versión V1-8-5 28/6/2026
+Versión V1-8-16 22/9/2026
