@@ -15,4 +15,4 @@ erbenzo@ifts24.edu.ar
 Versión V1-8-6  4/7/2026
 Versión V1-8-5 28/6/2026
 Versión V1-8-16 22/9/2026
-Version V1.9.3 24/9/2026
+Version V1.9.6 25/9/2026
